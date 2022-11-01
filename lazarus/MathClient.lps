@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="MathClient.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos Y="5"/>
+        <UsageCount Value="25"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="MathLibrary.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="80" Y="44"/>
+        <UsageCount Value="25"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="MathLibrary.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="27"/>
+        <CursorPos X="28" Y="69"/>
+        <UsageCount Value="10"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="7">
+      <Position>
+        <Filename Value="MathClient.lpr"/>
+        <Caret Line="9" Column="31"/>
+      </Position>
+      <Position>
+        <Filename Value="MathClient.lpr"/>
+        <Caret Line="49" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="MathClient.lpr"/>
+        <Caret Line="46"/>
+      </Position>
+      <Position>
+        <Filename Value="MathLibrary.pas"/>
+        <Caret Line="46" Column="50" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="MathLibrary.pas"/>
+        <Caret Line="58" Column="34" TopLine="32"/>
+      </Position>
+      <Position>
+        <Filename Value="MathLibrary.pas"/>
+        <Caret TopLine="29"/>
+      </Position>
+      <Position>
+        <Filename Value="MathLibrary.pas"/>
+        <Caret Line="42" Column="78"/>
+      </Position>
+      <Position>
+        <Filename Value="MathLibrary.pas"/>
+        <Caret Line="8"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
